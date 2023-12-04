@@ -10,6 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "puppeteer": "^21.5.2"
+    "check-disk-space": "^3.4.0",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "puppeteer": "^21.5.2",
+    "url": "^0.11.3"
   }
 }
